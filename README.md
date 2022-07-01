@@ -1,2 +1,2 @@
 # Formulario-de-login
-Formulário de loguin feito com HTML -CSS
+Formulário de login feito com HTML -CSS
